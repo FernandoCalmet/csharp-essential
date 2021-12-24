@@ -54,6 +54,16 @@
     <None Include="Lesson04\README.md" />
     <None Include="Lesson05\README.md" />
     <None Include="Lesson06\README.md" />
+    <None Include="Lesson07\README.md" />
+    <None Include="Lesson08\README.md" />
+    <None Include="Lesson09\README.md" />
+    <None Include="Lesson10\README.md" />
+    <None Include="Lesson11\README.md" />
+    <None Include="Lesson12\README.md" />
+    <None Include="Lesson13\README.md" />
+    <None Include="Lesson14\README.md" />
+    <None Include="Lesson15\README.md" />
+    <None Include="Lesson16\README.md" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
