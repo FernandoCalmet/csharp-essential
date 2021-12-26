@@ -22,52 +22,52 @@ Este proyecto es una muestra del aprendizaje del lenguaje de programación CShar
 
 ### CONCEPTOS BÁSICOS
 
-- Configuración del entorno de desarrollo
-- Tipos de datos, declaraciones y definiciones de variables
-- Operadores en C #
-- Conversión de tipo
-- Estructuras lineales con entrada y salida en C #
-- Trabajar con cadenas
-- Condiciones en C # (If, If-Else, If-ElseIf, Switch-Case)
-- Bucles (Mientras, Do-Mientras, Para)
-- Manejo de excepciones
-- Modificadores de acceso
-- Métodos
-- Palabras clave de referencia y salida
-- Métodos recursivos y recursivos
-- Matrices (matrices unidimensionales y multidimensionales)
-- Trabajar con archivos, StreamWriter y StreamReader
-- Trabajar con archivos, archivos y directorios
+- [Configuración del entorno de desarrollo](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson01)
+- [Tipos de datos, declaraciones y definiciones de variables](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson02)
+- [Operadores en C #](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson03)
+- [Conversión de tipo](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson04)
+- [Estructuras lineales con entrada y salida en C #](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson05)
+- [Trabajar con cadenas](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson06)
+- [Condiciones en C # (If, If-Else, If-ElseIf, Switch-Case)](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson07)
+- [Bucles (Mientras, Do-Mientras, Para)](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson08)
+- [Manejo de excepciones](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson09)
+- [Modificadores de acceso](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson10)
+- [Métodos](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson11)
+- [Palabras clave de referencia y salida](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson12)
+- [Métodos recursivos y recursivos](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson13)
+- [Matrices (matrices unidimensionales y multidimensionales)](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson14)
+- [Trabajar con archivos, StreamWriter y StreamReader](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson15)
+- [Trabajar con archivos, archivos y directorios](https://github.com/FernandoCalmet/CSharp/tree/main/1.Basics/Lesson16)
 
 ### CONCEPTOS INTERMEDIOS
 
-- Clases y constructores
-- Propiedades
-- Miembros estáticos, constantes y métodos de extensión
-- Tipos anónimos y que aceptan valores NULL
-- Estructuras
-- Enumeraciones
-- Herencia
-- Interfaces
-- Clases abstractas
-- Genéricos
-- Cola, pila, tabla hash
-- Lista genérica y diccionario
-- Delegados
+- [Clases y constructores](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson01)
+- [Propiedades](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson02)
+- [Miembros estáticos, constantes y métodos de extensión](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson03)
+- [Tipos anónimos y que aceptan valores NULL](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson04)
+- [Estructuras](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson05)
+- [Enumeraciones](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson06)
+- [Herencia](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson07)
+- [Interfaces](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson08)
+- [Clases abstractas](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson09)
+- [Genéricos](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson10)
+- [Cola, pila, tabla hash](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson11)
+- [Lista genérica y diccionario](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson12)
+- [Delegados](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson013)
 
 ### PATRONES DE DISEÑO
 
-- Builder Design Pattern and Fluent Builder
-- Fluent Builder Interface With Recursive Generics
-- Faceted Builder
-- Factory Method
-- Singleton
-- Adapter
-- Composite
-- Decorator
-- Command
-- Strategy
-- Facade
+- [Builder Design Pattern and Fluent Builder](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson01)
+- [Fluent Builder Interface With Recursive Generics](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson02)
+- [Faceted Builder](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson03)
+- [Factory Method](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson04)
+- [Singleton](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson05)
+- [Adapter](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson06)
+- [Composite](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson07)
+- [Decorator](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson08)
+- [Command](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson09)
+- [Strategy](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson10)
+- [Facade](https://github.com/FernandoCalmet/CSharp/tree/main/3.DesignPatterns/Lesson11)
 
 ## 📄 LICENCIA
 
