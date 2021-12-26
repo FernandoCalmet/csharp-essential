@@ -53,7 +53,7 @@ Este proyecto es una muestra del aprendizaje del lenguaje de programación CShar
 - [Genéricos](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson10)
 - [Cola, pila, tabla hash](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson11)
 - [Lista genérica y diccionario](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson12)
-- [Delegados](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson013)
+- [Delegados](https://github.com/FernandoCalmet/CSharp/tree/main/2.Intermediate/Lesson13)
 
 ### PATRONES DE DISEÑO
 
