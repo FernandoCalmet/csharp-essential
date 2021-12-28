@@ -1,0 +1,8 @@
+D:\Github\FernandoCalmet\CSharp\1.Basics\bin\Debug\1.Basics.exe.config
+D:\Github\FernandoCalmet\CSharp\1.Basics\bin\Debug\1.Basics.exe
+D:\Github\FernandoCalmet\CSharp\1.Basics\bin\Debug\1.Basics.pdb
+D:\Github\FernandoCalmet\CSharp\1.Basics\obj\Debug\1.Basics.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CSharp\1.Basics\obj\Debug\1.Basics.csproj.SuggestedBindingRedirects.cache
+D:\Github\FernandoCalmet\CSharp\1.Basics\obj\Debug\1.Basics.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CSharp\1.Basics\obj\Debug\1.Basics.exe
+D:\Github\FernandoCalmet\CSharp\1.Basics\obj\Debug\1.Basics.pdb

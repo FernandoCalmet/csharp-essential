@@ -1,0 +1,8 @@
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\bin\Debug\2.Intermediate.exe.config
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\bin\Debug\2.Intermediate.exe
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\bin\Debug\2.Intermediate.pdb
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\obj\Debug\2.Intermediate.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\obj\Debug\2.Intermediate.csproj.SuggestedBindingRedirects.cache
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\obj\Debug\2.Intermediate.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\obj\Debug\2.Intermediate.exe
+D:\Github\FernandoCalmet\CSharp\2.Intermediate\obj\Debug\2.Intermediate.pdb

@@ -1,0 +1,8 @@
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\bin\Debug\3.DesignPatterns.exe.config
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\bin\Debug\3.DesignPatterns.exe
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\bin\Debug\3.DesignPatterns.pdb
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\obj\Debug\3.DesignPatterns.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\obj\Debug\3.DesignPatterns.csproj.SuggestedBindingRedirects.cache
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\obj\Debug\3.DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\obj\Debug\3.DesignPatterns.exe
+D:\Github\FernandoCalmet\CSharp\3.DesignPatterns\obj\Debug\3.DesignPatterns.pdb
