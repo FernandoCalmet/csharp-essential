@@ -48,6 +48,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Lesson01\README.md" />
+    <None Include="Lesson02\README.md" />
+    <None Include="Lesson03\README.md" />
+    <None Include="Lesson04\README.md" />
+    <None Include="Lesson05\README.md" />
+    <None Include="Lesson06\README.md" />
+    <None Include="Lesson07\README.md" />
+    <None Include="Lesson08\README.md" />
+    <None Include="Lesson09\README.md" />
+    <None Include="Lesson10\README.md" />
+    <None Include="Lesson11\README.md" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
