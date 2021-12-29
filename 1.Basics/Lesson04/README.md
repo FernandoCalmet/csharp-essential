@@ -23,7 +23,7 @@ class Program
 }
 ```
 
-Aquí la `b` variable es de tipo double y `x` es de tipo int. En la expresión `b + x`, el compilador convierte implícitamente `x` de int a double y luego asigna un resultado al `b`.
+Aquí la variable `b` es de tipo double y `x` es de tipo int. En la expresión `b + x`, el compilador convierte implícitamente `x` de int a double y luego asigna un resultado al `b`.
 
 La segunda situación para la conversión es cuando el compilador almacena el resultado en una variable:
 
@@ -77,7 +77,7 @@ Podemos arreglar esto si queremos, usando la conversión explícita en cualquiera 
 
 ## Conversión explícita en ``C#``
 
-Para la conversión explícita, necesitamos escribir código adicional para convertir un tipo en otro. Tenemos dos formas diferentes, usando un operador de conversión o usando la Convertclase.
+Para la conversión explícita, necesitamos escribir código adicional para convertir un tipo en otro. Tenemos dos formas diferentes, usando un operador de conversión o usando la clase `Convert`.
 
 Veamos el siguiente ejemplo:
 
@@ -100,7 +100,7 @@ class Program
 
 ![img04](img/04.png)
 
-Al usar la `(int)` conversión de conversión, podemos transmitir de manera segura nuestros tipos de datos y el compilador lo aprueba. Pero lo que podemos ver es que nuestro resultado no es el que esperaríamos. Pero este es el resultado correcto. Es muy importante comprender que el operador de conversión puede reducir los datos cuando convertimos el tipo con el alcance de valor más grande a un tipo con el alcance de valor más pequeño. Como hicimos con la conversión de doble a int, por ejemplo.
+Al usar la conversión `(int)`, podemos transmitir de manera segura nuestros tipos de datos y el compilador lo aprueba. Pero lo que podemos ver es que nuestro resultado no es el que esperaríamos. Pero este es el resultado correcto. Es muy importante comprender que el operador de conversión puede reducir los datos cuando convertimos el tipo con el alcance de valor más grande a un tipo con el alcance de valor más pequeño. Como hicimos con la conversión de doble a int, por ejemplo.
 
 Ahora podemos aplicar el operador de conversión en nuestro ejemplo de la parte Conversión implícita, para obtener el resultado correcto:
 
@@ -119,9 +119,9 @@ class Program
 
 El resultado será 4.2.
 
-## Usando la clase Convert en ``C#``
+## Usando la clase Convert en `C#`
 
-Como dijimos, podemos usar la clase Convert con sus métodos estáticos, para convertir explícitamente un tipo base a otro tipo base:
+Como dijimos, podemos usar la clase `Convert` con sus métodos estáticos, para convertir explícitamente un tipo base a otro tipo base:
 
 ```csharp
 class Program
