@@ -9,7 +9,7 @@
 
 Ejemplo 1: Cree una aplicación que imprima la suma de dos valores enteros que el usuario ingresa en la ventana de la consola.
 
-Creemos una nueva aplicación de consola y asígnele un nombre `SumGenerator`. Luego, escriba este código dentro del `Main` método:
+Creemos una nueva aplicación de consola y asígnele un nombre `SumGenerator`. Luego, escriba este código dentro del método `Main`:
 
 ```csharp
 namespace SumGenerator
@@ -33,7 +33,7 @@ namespace SumGenerator
 }
 ```
 
-Con la `Console.WriteLine()` declaración, mostramos el mensaje en la ventana de la consola y pasamos a la siguiente línea. La `Console.ReadLine()` declaración leerá nuestra entrada, pero es de tipo cadena y lo que necesitamos es un tipo int. Entonces, necesitamos convertirlo con la `Convert.ToInt32()` declaración. Finalmente, calculamos la suma y la imprimimos. La `Console.ReadKey()` declaración está aquí solo para mantener abierta la ventana de nuestra consola.
+Con la declaración `Console.WriteLine()`, mostramos el mensaje en la ventana de la consola y pasamos a la siguiente línea. La declaración `Console.ReadLine()` leerá nuestra entrada, pero es de tipo cadena y lo que necesitamos es un tipo int. Entonces, necesitamos convertirlo con la declaración `Convert.ToInt32()`. Finalmente, calculamos la suma y la imprimimos. La declaración `Console.ReadKey()` está aquí solo para mantener abierta la ventana de nuestra consola.
 
 Presionemos F5 para iniciar nuestra aplicación e ingresemos dos números enteros:
 
