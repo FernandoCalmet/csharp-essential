@@ -251,7 +251,7 @@ static void Main(string[] args)
 
 El resultado:
 
-````bash
+```bash
 Enter the month number form 1 to 12
 9
 Number of days is 30
