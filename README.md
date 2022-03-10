@@ -18,6 +18,12 @@
 
 Este proyecto es una muestra del aprendizaje del lenguaje de programación CSharp.
 
+### CLONE PROJECT
+
+```bash
+gh repo clone FernandoCalmet/CSharp
+```
+
 ## ✔️ LECCIONES
 
 ### CONCEPTOS BÁSICOS
