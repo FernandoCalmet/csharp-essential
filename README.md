@@ -21,7 +21,7 @@ Este proyecto es una muestra del aprendizaje del lenguaje de programación CShar
 ### CLONE PROJECT
 
 ```bash
-gh repo clone FernandoCalmet/CSharp
+gh repo clone FernandoCalmet/csharp-essencial
 ```
 
 ## ✔️ LECCIONES
