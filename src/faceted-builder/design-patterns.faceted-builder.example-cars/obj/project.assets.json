@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj",
+      "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\faceted-builder\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj",
       "projectName": "design-patterns.faceted-builder.example-cars",
-      "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj",
+      "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\faceted-builder\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj",
       "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\obj\\",
+      "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\faceted-builder\\design-patterns.faceted-builder.example-cars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\bin\Debug\net6.0\design-patterns.factory-method.example-airconditioner.exe
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\bin\Debug\net6.0\design-patterns.factory-method.example-airconditioner.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\bin\Debug\net6.0\design-patterns.factory-method.example-airconditioner.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\bin\Debug\net6.0\design-patterns.factory-method.example-airconditioner.dll
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\bin\Debug\net6.0\design-patterns.factory-method.example-airconditioner.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.dll
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\refint\design-patterns.factory-method.example-airconditioner.dll
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\design-patterns.factory-method.example-airconditioner.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\factory-method\design-patterns.factory-method.example-airconditioner\obj\Debug\net6.0\ref\design-patterns.factory-method.example-airconditioner.dll

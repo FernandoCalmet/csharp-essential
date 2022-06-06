@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "design-patterns.factory-method.example-airconditioner/1.0.0": {
+        "runtime": {
+          "design-patterns.factory-method.example-airconditioner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "design-patterns.factory-method.example-airconditioner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

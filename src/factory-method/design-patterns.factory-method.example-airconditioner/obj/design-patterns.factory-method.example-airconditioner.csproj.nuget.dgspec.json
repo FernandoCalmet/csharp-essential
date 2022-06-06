@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj": {}
+    "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj": {}
   },
   "projects": {
-    "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj": {
+    "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj",
-        "projectName": "design-patterns.faceted-builder.example-cars",
-        "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\design-patterns.faceted-builder.example-cars.csproj",
+        "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj",
+        "projectName": "design-patterns.factory-method.example-airconditioner",
+        "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj",
         "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\design-patterns.faceted-builder.example-cars\\obj\\",
+        "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
