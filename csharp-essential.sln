@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.fluent-buil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.fluent-builder-generics.example-employers", "src\fluent-builder-generics\design-patterns.fluent-builder-generics.example-employers\design-patterns.fluent-builder-generics.example-employers.csproj", "{9242E90D-DFE1-4F41-A192-B22C8E50CA4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.faceted-builder.example-cars", "design-patterns.faceted-builder.example-cars\design-patterns.faceted-builder.example-cars.csproj", "{B3BA4062-86C4-42C2-93C7-F5764CDBCCB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{9242E90D-DFE1-4F41-A192-B22C8E50CA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9242E90D-DFE1-4F41-A192-B22C8E50CA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9242E90D-DFE1-4F41-A192-B22C8E50CA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BA4062-86C4-42C2-93C7-F5764CDBCCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BA4062-86C4-42C2-93C7-F5764CDBCCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BA4062-86C4-42C2-93C7-F5764CDBCCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BA4062-86C4-42C2-93C7-F5764CDBCCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +56,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{99413E5F-A80A-4500-8216-094927351B0D} = {1BA47097-5D23-4642-A63D-72E7DD1516BA}
 		{9242E90D-DFE1-4F41-A192-B22C8E50CA4E} = {B92326DC-A5E5-4A39-8CA5-22EE96825BA8}
+		{B3BA4062-86C4-42C2-93C7-F5764CDBCCB6} = {7190F84E-B711-4101-9459-8DDEADCC8B0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A18332-F70F-4F19-BABB-5783D93F3DB3}

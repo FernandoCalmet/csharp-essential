@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\bin\Debug\net6.0\design-patterns.faceted-builder.example-cars.exe
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\bin\Debug\net6.0\design-patterns.faceted-builder.example-cars.deps.json
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\bin\Debug\net6.0\design-patterns.faceted-builder.example-cars.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\bin\Debug\net6.0\design-patterns.faceted-builder.example-cars.dll
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\bin\Debug\net6.0\design-patterns.faceted-builder.example-cars.pdb
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.dll
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\refint\design-patterns.faceted-builder.example-cars.dll
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.pdb
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\design-patterns.faceted-builder.example-cars.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\design-patterns.faceted-builder.example-cars\obj\Debug\net6.0\ref\design-patterns.faceted-builder.example-cars.dll
