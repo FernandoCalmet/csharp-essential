@@ -44,7 +44,7 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Trabajar con archivos, StreamWriter y StreamReader](https://github.com/FernandoCalmet/csharp-essential/wiki/Trabajar-con-archivos,-StreamWriter-y-StreamReader)
 - [Trabajar con archivos, archivos y directorios](https://github.com/FernandoCalmet/csharp-essential/wiki/Trabajar-con-archivos,-archivos-y-directorios)
 
-> 📌 [Ir a la "rama" de esta lección de Conceptos Básicos]()
+> 📌 [Ir a la "rama" de esta lección de Conceptos Básicos](https://github.com/FernandoCalmet/csharp-essential/tree/basic_concepts)
 
 ### 📁 CONCEPTOS INTERMEDIOS
 
@@ -62,7 +62,7 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Lista genérica y diccionario](https://github.com/FernandoCalmet/csharp-essential/wiki/Lista-generica-y-diccionario)
 - [Delegados](https://github.com/FernandoCalmet/csharp-essential/wiki/Delegados)
 
-> 📌 [Ir a la "rama" de esta lección de Conceptos Intermedios]()
+> 📌 [Ir a la "rama" de esta lección de Conceptos Intermedios](https://github.com/FernandoCalmet/csharp-essential/tree/intermediate_concepts)
 
 ### 📁 LINQ
 
@@ -70,7 +70,7 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Ordenamiento y Filtrado con LINQ](https://github.com/FernandoCalmet/csharp-essential/wiki/Ordenamiento-y-Filtrado-con-LINQ)
 - [LINQ a XML](https://github.com/FernandoCalmet/csharp-essential/wiki/LINQ-a-XML)
 
-> 📌 [Ir a la "rama" de esta lección de LINQ]()
+> 📌 [Ir a la "rama" de esta lección de LINQ](https://github.com/FernandoCalmet/csharp-essential/tree/linq)
 
 ### 📁 PATRONES DE DISEÑO
 
@@ -86,7 +86,7 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Patrón de Diseño Strategy](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Strategy)
 - [Patrón de Diseño Facade](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Facade)
 
-> 📌 [Ir a la "rama" de esta lección de Patrones de Diseño]()
+> 📌 [Ir a la "rama" de esta lección de Patrones de Diseño](https://github.com/FernandoCalmet/csharp-essential/tree/design_patterns)
 
 ## 📄 LICENCIA
 
