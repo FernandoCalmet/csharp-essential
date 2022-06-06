@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "design-patterns.faceted-bui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.factory-method.example-airconditioner", "src\factory-method\design-patterns.factory-method.example-airconditioner\design-patterns.factory-method.example-airconditioner.csproj", "{1719B035-030B-4171-B47D-6C875718402A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.singleton.example-populations", "src\singleton\design-patterns.singleton.example-populations\design-patterns.singleton.example-populations.csproj", "{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{1719B035-030B-4171-B47D-6C875718402A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1719B035-030B-4171-B47D-6C875718402A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1719B035-030B-4171-B47D-6C875718402A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{9242E90D-DFE1-4F41-A192-B22C8E50CA4E} = {B92326DC-A5E5-4A39-8CA5-22EE96825BA8}
 		{5B9DCF4E-107D-4BBF-B694-0F4FB892E4FB} = {7190F84E-B711-4101-9459-8DDEADCC8B0C}
 		{1719B035-030B-4171-B47D-6C875718402A} = {D40B2DEA-C700-4561-8BC5-97329540706B}
+		{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1} = {7F891679-E0EC-41E8-B19B-3CC787CF2F97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A18332-F70F-4F19-BABB-5783D93F3DB3}
