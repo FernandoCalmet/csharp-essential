@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "design-patterns.fluent-builder-generics.example-employers/1.0.0": {
+        "runtime": {
+          "design-patterns.fluent-builder-generics.example-employers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "design-patterns.fluent-builder-generics.example-employers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
