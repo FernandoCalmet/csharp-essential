@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "design-patterns.singleton.e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.strategy.example-salary-calculator", "src\strategy\design-patterns.strategy.example-salary-calculator\design-patterns.strategy.example-salary-calculator.csproj", "{C67CF547-5EA2-4EC7-9A94-9E5A85450561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.adapter.example-manufacturer-data", "src\adapter\design-patterns.adapter.example-manufacturer-data\design-patterns.adapter.example-manufacturer-data.csproj", "{35C91B88-2124-4021-87EE-CDEA78683474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{C67CF547-5EA2-4EC7-9A94-9E5A85450561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67CF547-5EA2-4EC7-9A94-9E5A85450561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67CF547-5EA2-4EC7-9A94-9E5A85450561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C91B88-2124-4021-87EE-CDEA78683474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C91B88-2124-4021-87EE-CDEA78683474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C91B88-2124-4021-87EE-CDEA78683474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C91B88-2124-4021-87EE-CDEA78683474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{1719B035-030B-4171-B47D-6C875718402A} = {D40B2DEA-C700-4561-8BC5-97329540706B}
 		{1118E971-C0B0-4C38-B77D-C3E22C2DCFB1} = {7F891679-E0EC-41E8-B19B-3CC787CF2F97}
 		{C67CF547-5EA2-4EC7-9A94-9E5A85450561} = {F0FFE84D-2F43-47BF-AC23-FEF636C84855}
+		{35C91B88-2124-4021-87EE-CDEA78683474} = {53022B13-162F-4EEA-B32E-BEFB65111110}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A18332-F70F-4F19-BABB-5783D93F3DB3}
