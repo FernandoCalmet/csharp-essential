@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cGnxW7hW6whb+eVbM3NIhEi5vusI/hFaPR5ZQphXInYep2t5FX3vv9kFsMPRbAAuWyI7650YYRfXxK+htmLwbA==",
+  "dgSpecHash": "xhewtOJvzU1KVk7Opjd4nMHZWiIie2sEDZDjWa4SpQid+aQuwMHsWyZPjgxxr/GtbxjAdSgPLBVebpNLAnv8+g==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\singleton\\design-patterns.singleton.example-populations\\design-patterns.singleton.example-populations.csproj",
   "expectedPackageFiles": [],

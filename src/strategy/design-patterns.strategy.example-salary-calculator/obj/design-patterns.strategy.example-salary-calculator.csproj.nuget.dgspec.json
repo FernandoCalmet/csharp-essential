@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj": {}
+    "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\design-patterns.strategy.example-salary-calculator.csproj": {}
   },
   "projects": {
-    "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj": {
+    "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\design-patterns.strategy.example-salary-calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj",
-        "projectName": "design-patterns.factory-method.example-airconditioner",
-        "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\design-patterns.factory-method.example-airconditioner.csproj",
+        "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\design-patterns.strategy.example-salary-calculator.csproj",
+        "projectName": "design-patterns.strategy.example-salary-calculator",
+        "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\design-patterns.strategy.example-salary-calculator.csproj",
         "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\factory-method\\design-patterns.factory-method.example-airconditioner\\obj\\",
+        "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

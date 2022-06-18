@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\fluent-builder-generics\\design-patterns.fluent-builder-generics.example-employers\\design-patterns.fluent-builder-generics.example-employers.csproj",
-      "projectName": "design-patterns.fluent-builder-generics.example-employers",
-      "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\fluent-builder-generics\\design-patterns.fluent-builder-generics.example-employers\\design-patterns.fluent-builder-generics.example-employers.csproj",
+      "projectUniqueName": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\design-patterns.strategy.example-salary-calculator.csproj",
+      "projectName": "design-patterns.strategy.example-salary-calculator",
+      "projectPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\design-patterns.strategy.example-salary-calculator.csproj",
       "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\fluent-builder-generics\\design-patterns.fluent-builder-generics.example-employers\\obj\\",
+      "outputPath": "D:\\Github\\FernandoCalmet\\csharp-essential\\src\\strategy\\design-patterns.strategy.example-salary-calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
