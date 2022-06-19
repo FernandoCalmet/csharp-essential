@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\bin\Debug\net6.0\design-patterns.decorator.example-orders.exe
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\bin\Debug\net6.0\design-patterns.decorator.example-orders.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\bin\Debug\net6.0\design-patterns.decorator.example-orders.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\bin\Debug\net6.0\design-patterns.decorator.example-orders.dll
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\bin\Debug\net6.0\design-patterns.decorator.example-orders.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.dll
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\refint\design-patterns.decorator.example-orders.dll
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\design-patterns.decorator.example-orders.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\decorator\design-patterns.decorator.example-orders\obj\Debug\net6.0\ref\design-patterns.decorator.example-orders.dll
