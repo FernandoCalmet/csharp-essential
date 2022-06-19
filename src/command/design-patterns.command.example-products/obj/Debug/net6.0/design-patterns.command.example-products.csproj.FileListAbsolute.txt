@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\bin\Debug\net6.0\design-patterns.command.example-products.exe
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\bin\Debug\net6.0\design-patterns.command.example-products.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\bin\Debug\net6.0\design-patterns.command.example-products.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\bin\Debug\net6.0\design-patterns.command.example-products.dll
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\bin\Debug\net6.0\design-patterns.command.example-products.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.dll
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\refint\design-patterns.command.example-products.dll
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\design-patterns.command.example-products.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\command\design-patterns.command.example-products\obj\Debug\net6.0\ref\design-patterns.command.example-products.dll
