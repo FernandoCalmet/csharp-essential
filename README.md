@@ -74,6 +74,16 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Ordenamiento y Filtrado con LINQ](https://github.com/FernandoCalmet/csharp-essential/wiki/Ordenamiento-y-Filtrado-con-LINQ)
 - [LINQ a XML](https://github.com/FernandoCalmet/csharp-essential/wiki/LINQ-a-XML)
 
+### 📁 PRINCIPIOS SOLID
+
+> 📌 [Ir a la "rama" de esta lección de Principios SOLID](https://github.com/FernandoCalmet/csharp-essential/tree/solid_principles)
+
+- [Principio de Responsabilidad Única](https://github.com/FernandoCalmet/csharp-essential/wiki/Principio-de-responsabilidad-unica)
+- [Principio de Abierto y Cerrado](https://github.com/FernandoCalmet/csharp-essential/wiki/Principio-de-abierto-y-cerrado)
+- [Principio de Sustitución de Liskov](https://github.com/FernandoCalmet/csharp-essential/wiki/Principio-de-sustitucion-de-liskov)
+- [Principio de Segregación  de Interfaces](https://github.com/FernandoCalmet/csharp-essential/wiki/Principio-de-segregacion-de-interfaces)
+- [Principio de Inversión de Dependencias](https://github.com/FernandoCalmet/csharp-essential/wiki/Principio-de-inversion-de-dependencias)
+
 ### 📁 PATRONES DE DISEÑO
 
 > 📌 [Ir a la "rama" de esta lección de Patrones de Diseño](https://github.com/FernandoCalmet/csharp-essential/tree/design_patterns)
