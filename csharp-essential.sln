@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.composite.e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.decorator.example-orders", "src\decorator\design-patterns.decorator.example-orders\design-patterns.decorator.example-orders.csproj", "{4E31DF29-70E9-40B9-A447-205029CBC222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns.facade.example-restaurant", "src\facade\design-patterns.facade.example-restaurant\design-patterns.facade.example-restaurant.csproj", "{3BAF5D39-5C4F-4B46-894C-E6B9C4874640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{4E31DF29-70E9-40B9-A447-205029CBC222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E31DF29-70E9-40B9-A447-205029CBC222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E31DF29-70E9-40B9-A447-205029CBC222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAF5D39-5C4F-4B46-894C-E6B9C4874640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAF5D39-5C4F-4B46-894C-E6B9C4874640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAF5D39-5C4F-4B46-894C-E6B9C4874640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAF5D39-5C4F-4B46-894C-E6B9C4874640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,6 +112,7 @@ Global
 		{0E302D5D-FBCF-488A-8E7C-AAC190C009EB} = {E6BE4AC9-5C11-419D-BCFD-10685B72E77D}
 		{0FA4F26E-00F1-446D-9A94-0A13328B2C08} = {AB206CA5-F520-4AA6-A7A1-FF6148A78CAF}
 		{4E31DF29-70E9-40B9-A447-205029CBC222} = {F316D65E-6B35-4FB2-B9EB-4F167ED40AF0}
+		{3BAF5D39-5C4F-4B46-894C-E6B9C4874640} = {B40A61D0-DE3D-4335-893F-0FA417FA84FF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A18332-F70F-4F19-BABB-5783D93F3DB3}
