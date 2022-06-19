@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\bin\Debug\net6.0\design-patterns.composite.example-gifts.exe
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\bin\Debug\net6.0\design-patterns.composite.example-gifts.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\bin\Debug\net6.0\design-patterns.composite.example-gifts.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\bin\Debug\net6.0\design-patterns.composite.example-gifts.dll
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\bin\Debug\net6.0\design-patterns.composite.example-gifts.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.dll
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\refint\design-patterns.composite.example-gifts.dll
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\design-patterns.composite.example-gifts.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\composite\design-patterns.composite.example-gifts\obj\Debug\net6.0\ref\design-patterns.composite.example-gifts.dll
