@@ -15,7 +15,7 @@
 
 ## 🔥 ACERCA DEL PROYECTO
 
-🦄 Este repositorio contiene el aprendizaje esencial con el lenguaje de programación CSharp (C#). El propósito es tener un “roadmap” de aprendizaje sobre los conocimientos aplicados.
+🦄 Este repositorio contiene el aprendizaje esencial con el lenguaje de programación CSharp (C#). El propósito es tener un “roadmap” de aprendizaje sobre los conocimientos aplicados. Para poder ver los contenidos de cada lección debes cambiar la rama del repositorio.
 
 ### 📥 CLONAR PROYECTO
 
@@ -26,6 +26,8 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 ## ✔️ LECCIONES
 
 ### 📁 CONCEPTOS BÁSICOS
+
+> 📌 [Ir a la "rama" de esta lección de Conceptos Básicos](https://github.com/FernandoCalmet/csharp-essential/tree/basic_concepts)
 
 - [Configuración del entorno de desarrollo](https://github.com/FernandoCalmet/csharp-essential/wiki/Configuracion-del-entorno-de-desarrollo)
 - [Tipos de datos, declaraciones y definiciones de variables](https://github.com/FernandoCalmet/csharp-essential/wiki/Tipos-de-datos,-declaraciones-y-definiciones-de-variables)
@@ -44,9 +46,9 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Trabajar con archivos, StreamWriter y StreamReader](https://github.com/FernandoCalmet/csharp-essential/wiki/Trabajar-con-archivos,-StreamWriter-y-StreamReader)
 - [Trabajar con archivos, archivos y directorios](https://github.com/FernandoCalmet/csharp-essential/wiki/Trabajar-con-archivos,-archivos-y-directorios)
 
-> 📌 [Ir a la "rama" de esta lección de Conceptos Básicos](https://github.com/FernandoCalmet/csharp-essential/tree/basic_concepts)
-
 ### 📁 CONCEPTOS INTERMEDIOS
+
+> 📌 [Ir a la "rama" de esta lección de Conceptos Intermedios](https://github.com/FernandoCalmet/csharp-essential/tree/intermediate_concepts)
 
 - [Clases y constructores](https://github.com/FernandoCalmet/csharp-essential/wiki/Clases-y-constructores)
 - [Propiedades](https://github.com/FernandoCalmet/csharp-essential/wiki/Propiedades)
@@ -62,17 +64,17 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Lista genérica y diccionario](https://github.com/FernandoCalmet/csharp-essential/wiki/Lista-generica-y-diccionario)
 - [Delegados](https://github.com/FernandoCalmet/csharp-essential/wiki/Delegados)
 
-> 📌 [Ir a la "rama" de esta lección de Conceptos Intermedios](https://github.com/FernandoCalmet/csharp-essential/tree/intermediate_concepts)
-
 ### 📁 LINQ
+
+> 📌 [Ir a la "rama" de esta lección de LINQ](https://github.com/FernandoCalmet/csharp-essential/tree/linq)
 
 - [Conceptos básicos de LINQ](https://github.com/FernandoCalmet/csharp-essential/wiki/Conceptos-basicos-de-LINQ)
 - [Ordenamiento y Filtrado con LINQ](https://github.com/FernandoCalmet/csharp-essential/wiki/Ordenamiento-y-Filtrado-con-LINQ)
 - [LINQ a XML](https://github.com/FernandoCalmet/csharp-essential/wiki/LINQ-a-XML)
 
-> 📌 [Ir a la "rama" de esta lección de LINQ](https://github.com/FernandoCalmet/csharp-essential/tree/linq)
-
 ### 📁 PATRONES DE DISEÑO
+
+> 📌 [Ir a la "rama" de esta lección de Patrones de Diseño](https://github.com/FernandoCalmet/csharp-essential/tree/design_patterns)
 
 - [Patrón de Diseño Builder and Fluent Builder](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Builder-y-Fluent-Builder)
 - [Patrón de Diseño Fluent Builder Interface con genéricos recursivos](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Fluent-Builder-Interface-con-genericos-recursivos)
@@ -85,8 +87,6 @@ git clone https://github.com/FernandoCalmet/csharp-essential
 - [Patrón de Diseño Command](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Command)
 - [Patrón de Diseño Strategy](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Strategy)
 - [Patrón de Diseño Facade](https://github.com/FernandoCalmet/csharp-essential/wiki/Design-Pattern-Facade)
-
-> 📌 [Ir a la "rama" de esta lección de Patrones de Diseño](https://github.com/FernandoCalmet/csharp-essential/tree/design_patterns)
 
 ## 📄 LICENCIA
 
