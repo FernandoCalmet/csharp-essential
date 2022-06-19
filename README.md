@@ -15,7 +15,9 @@
 
 ## 🔥 ACERCA DEL PROYECTO
 
-🦄 Este repositorio contiene el aprendizaje esencial con el lenguaje de programación CSharp (C#). El propósito es tener un “roadmap” de aprendizaje sobre los conocimientos aplicados. Para poder ver los contenidos de cada lección debes cambiar la rama del repositorio.
+🦄 Este repositorio contiene el aprendizaje esencial con el lenguaje de programación CSharp (C#). El propósito es tener un “roadmap” de aprendizaje sobre los conocimientos aplicados.
+
+Para poder ver los contenidos de cada lección debes cambiar la rama del repositorio.
 
 ### 📥 CLONAR PROYECTO
 
