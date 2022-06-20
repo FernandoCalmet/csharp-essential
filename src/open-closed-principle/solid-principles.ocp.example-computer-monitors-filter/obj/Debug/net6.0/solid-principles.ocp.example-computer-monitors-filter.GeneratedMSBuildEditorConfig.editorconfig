@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = solid_principles.ocp.example_computer_monitors_filter
+build_property.ProjectDir = D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\

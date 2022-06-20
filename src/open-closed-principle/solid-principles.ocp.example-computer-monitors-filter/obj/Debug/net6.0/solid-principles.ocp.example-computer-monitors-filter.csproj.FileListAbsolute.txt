@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\bin\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.exe
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\bin\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\bin\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\bin\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.dll
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\bin\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.dll
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\refint\solid-principles.ocp.example-computer-monitors-filter.dll
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\solid-principles.ocp.example-computer-monitors-filter.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\open-closed-principle\solid-principles.ocp.example-computer-monitors-filter\obj\Debug\net6.0\ref\solid-principles.ocp.example-computer-monitors-filter.dll
