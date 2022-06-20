@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\bin\Debug\net6.0\solid-principles.dip.example-employees.exe
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\bin\Debug\net6.0\solid-principles.dip.example-employees.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\bin\Debug\net6.0\solid-principles.dip.example-employees.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\bin\Debug\net6.0\solid-principles.dip.example-employees.dll
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\bin\Debug\net6.0\solid-principles.dip.example-employees.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.dll
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\refint\solid-principles.dip.example-employees.dll
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\solid-principles.dip.example-employees.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\dependency-inversion-principle\solid-principles.dip.example-employees\obj\Debug\net6.0\ref\solid-principles.dip.example-employees.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "solid-principles.lsp.example-calculator/1.0.0": {
+        "runtime": {
+          "solid-principles.lsp.example-calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solid-principles.lsp.example-calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
