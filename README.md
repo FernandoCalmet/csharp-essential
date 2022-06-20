@@ -7,11 +7,14 @@
 
 ## 📔 TABLA DE CONTENIDO
 
-* [Acerca del proyecto](#acerca-del-proyecto)
-* [Lecciones](#lecciones)
-* [Conceptos Básicos](#conceptos-básicos)
-* [Conceptos Intermedios](#conceptos-intermedios)
-* [Patrones de Diseño](#patrones-de-diseño)
+* [Acerca del proyecto](#-acerca-del-proyecto)
+* [Lecciones](#-lecciones)
+* [Conceptos Básicos](#-conceptos-b%C3%81sicos)
+* [Conceptos Intermedios](#-conceptos-intermedios)
+* [Linq](#-linq)
+* [Principios SOLID](#-principios-solid)
+* [Patrones de Diseño](#-patrones-de-dise%C3%91o)
+* [Licencia](#-licencia)
 
 ## 🔥 ACERCA DEL PROYECTO
 
