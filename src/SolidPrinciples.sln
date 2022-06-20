@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dependency-inversion-principle", "dependency-inversion-principle", "{82ACAE87-89DE-4248-BEB0-EE75C3648EAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "interface-segregation-principle", "interface-segregation-principle", "{6EB70FD4-69D1-4E26-B462-528D5461A6F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "liskkov-substitution-principle", "liskkov-substitution-principle", "{115D59BB-9536-46C1-989B-C69BE1146637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "open-closed-principle", "open-closed-principle", "{E128F366-9B02-4A70-A515-1F257E6EBBD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "single-responsibility-principle", "single-responsibility-principle", "{19EE5B3B-7D3E-4529-8A42-B3D0D07089F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-principles.srp.example-files", "single-responsibility-principle\solid-principles.srp.example-files\solid-principles.srp.example-files.csproj", "{9E0166D1-951C-41B9-BE17-00A5E18CD1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0166D1-951C-41B9-BE17-00A5E18CD1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0166D1-951C-41B9-BE17-00A5E18CD1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0166D1-951C-41B9-BE17-00A5E18CD1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0166D1-951C-41B9-BE17-00A5E18CD1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E0166D1-951C-41B9-BE17-00A5E18CD1E0} = {19EE5B3B-7D3E-4529-8A42-B3D0D07089F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602DAC12-D5AC-44AC-AD96-2701806B2D0E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\bin\Debug\net6.0\solid-principles.srp.example-files.exe
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\bin\Debug\net6.0\solid-principles.srp.example-files.deps.json
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\bin\Debug\net6.0\solid-principles.srp.example-files.runtimeconfig.json
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\bin\Debug\net6.0\solid-principles.srp.example-files.dll
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\bin\Debug\net6.0\solid-principles.srp.example-files.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.AssemblyInfo.cs
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.dll
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\refint\solid-principles.srp.example-files.dll
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.pdb
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\solid-principles.srp.example-files.genruntimeconfig.cache
+D:\Github\FernandoCalmet\csharp-essential\src\single-responsibility-principle\solid-principles.srp.example-files\obj\Debug\net6.0\ref\solid-principles.srp.example-files.dll
